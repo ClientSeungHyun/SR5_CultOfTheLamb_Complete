@@ -1,0 +1,202 @@
+﻿C:\Users\sean5\OneDrive\���� ??��\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shaders\Example.hlsl(40,5-70): warning X3206: implicit truncation of vector type
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Example.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_BlendObject.cso
+C:\Users\sean5\OneDrive\���� ??��\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shaders\Shader_Boss.hlsl(40,5-70): warning X3206: implicit truncation of vector type
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_Boss.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_Door.cso
+C:\Users\sean5\OneDrive\���� ??��\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shaders\Shader_FlyBall.hlsl(40,5-70): warning X3206: implicit truncation of vector type
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_FlyBall.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_UI.cso
+  AlphabetButton.cpp
+  BackGround.cpp
+  BackGroundPlayer.cpp
+  BackGround_Crown.cpp
+  Bat.cpp
+  Bone_Particle.cpp
+  Boss_Aim.cpp
+  Boss_DeathCat.cpp
+  Boss_Eligor.cpp
+  Boss_Eye.cpp
+  Boss_Gusion.cpp
+  Boss_Hekat.cpp
+  BuildingObject.cpp
+  BuildingPanelUI.cpp
+  Building_IconUI.cpp
+  Bullet_Particle.cpp
+  Camera.cpp
+  CardExplainPanel.cpp
+  CChainGround.cpp
+  ChainAttack.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Chest.cpp
+  CIrcle_Eye.cpp
+  Circle_Eye_Pupil.cpp
+  Command_Circle.cpp
+  CraftIconUI.cpp
+  CraftPanelUI.cpp
+  Craft_KeyUI.cpp
+  Door.cpp
+  DungeonClearUI.cpp
+  Effect.cpp
+  Eligor_Bullet.cpp
+  Eye_Controller.cpp
+  FadeInOut.cpp
+  Follower_Circle_Button.cpp
+  GuideUI.cpp
+  Gusion_Bullet.cpp
+  Hekat_Bullet.cpp
+  Item.cpp
+  ItemGetUI.cpp
+  ItemIcon.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ItemIconUI.cpp
+  Letter_BoxUI.cpp
+  Level_Dungeon00.cpp
+  Level_Dungeon01.cpp
+  Level_Dungeon02.cpp
+  Level_Dungeon03.cpp
+  Level_Loading.cpp
+  MainPlayerUI.cpp
+  MonologuePanelUI.cpp
+  MonologueUI.cpp
+  MonsterBone.cpp
+  MonsterHpUI.cpp
+  Mortal_Fly.cpp
+  Mouse_Icon.cpp
+  OpenIcon.cpp
+  PlayerHpUI.cpp
+  PlayerSermonUI.cpp
+  PressEtoPickCard.cpp
+  PlayerInventory.cpp
+  Player_Bullet.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Quest.cpp
+  QuestOrnamentUI.cpp
+  DecoObejct.cpp
+  Follower.cpp
+  Follower_Command_UI.cpp
+  Frog.cpp
+  FrogSummon.cpp
+  Grid.cpp
+  Human.cpp
+  InteractObject.cpp
+  FlyBallAttack.cpp
+  LandObject.cpp
+  Level_GamePlay.cpp
+  Level_Logo.cpp
+  Lodding_GagePanelUI.cpp
+  Lodding_GageUI.cpp
+  LogoButtonUI.cpp
+  MainApp.cpp
+  Monster.cpp
+  MouseClickUI.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Player.cpp
+  QuestPanelUI.cpp
+  RatNPC.cpp
+  Road.cpp
+  Rock_Particle.cpp
+  Sky.cpp
+  SpellGauge.cpp
+  State_Aim_Attack1.cpp
+  State_Aim_Attack2.cpp
+  State_Aim_Attack3.cpp
+  State_Aim_Die.cpp
+  State_Aim_Idle.cpp
+  State_Aim_IdleToAttack.cpp
+  State_Aim_Walk.cpp
+  State_DeathCatChainAttack.cpp
+  State_DeathCatDisappear.cpp
+  State_DeathCatFlyBallAttack.cpp
+  State_DeathCatHurt.cpp
+  State_DeathCatIdle.cpp
+  State_EilgorFA.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  State_EligorBurp.cpp
+  State_EligorIdle.cpp
+  State_EligorLE.cpp
+  State_EligorRoar.cpp
+  State_EligorTF.cpp
+  State_EligorUC.cpp
+  State_EyeAttack.cpp
+  State_EyeDie.cpp
+  State_EyeDisappear.cpp
+  State_EyeIdle.cpp
+  State_Follower_Axe.cpp
+  State_Follower_Idle.cpp
+  State_Follower_Indo.cpp
+  State_Follower_Mining.cpp
+  State_Follower_Pray.cpp
+  State_Follower_Walk.cpp
+  State_Follower_Worship.cpp
+  State_GusionBurp.cpp
+  State_GusionDie.cpp
+  State_GusionIdle.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  State_GusionJump.cpp
+  State_GusionLE.cpp
+  State_GusionRoar.cpp
+  State_HekatDie.cpp
+  State_HekatIdle.cpp
+  State_HekatJump.cpp
+  State_HekatLE.cpp
+  State_HekatRoar.cpp
+  State_HekatTB.cpp
+  State_HekatTF.cpp
+  State_HekatTFollower.cpp
+  State_HekatTH.cpp
+  State_PlayerAttack1.cpp
+  State_PlayerAttack2.cpp
+  State_PlayerAttack3.cpp
+  State_PlayerAxe.cpp
+  State_PlayerCard.cpp
+  State_PlayerDie.cpp
+  State_PlayerGF.cpp
+  State_PlayerGS.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  State_PlayerHammer.cpp
+  State_PlayerIdle.cpp
+  State_PlayerKnockBack.cpp
+  State_PlayerPickAxe.cpp
+  State_PlayerResurrect.cpp
+  State_PlayerRoll.cpp
+  State_PlayerRun.cpp
+  State_PlayerSermon.cpp
+  State_PlayerSpell.cpp
+  State_PlayerWI.cpp
+  State_PlayerWO.cpp
+  TalkIcon.cpp
+  TalkPanelUI.cpp
+  TarotCard.cpp
+  TarotNPC.cpp
+  TarotPanel.cpp
+  Terrain.cpp
+  Title.cpp
+  Turret.cpp
+  ZoomInPanelUI.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Client.cpp
+  State_Player_Tarot.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  Client.vcxproj -> C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Client.exe

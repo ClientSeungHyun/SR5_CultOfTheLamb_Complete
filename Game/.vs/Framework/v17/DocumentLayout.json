@@ -1,0 +1,1251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Terrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Terrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\private\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\private\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Eye_Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Eye_Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Loading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_Loading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Gusion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Boss_Gusion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Eligor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Boss_Eligor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Hekat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Boss_Hekat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Eye.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Boss_Eye.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Aim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Boss_Aim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_DeathCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Boss_DeathCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Mortal_Fly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Mortal_Fly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Engine_Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\Engine_Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_HekatTF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Door.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Door.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_Dungeon01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_HekatTH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\MonsterBone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\MonsterBone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\LandObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\LandObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_Dungeon02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\private\\VIBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\private\\VIBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\private\\GameInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\private\\GameInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\private\\Level_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\private\\Level_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Event_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Event_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTFollower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_HekatTFollower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\State_HekatTFollower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_HekatTFollower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\MonsterHpUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\MonsterHpUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\list||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\DungeonClearUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\DungeonClearUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\ItemGetUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\ItemGetUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\ItemIcon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\ItemIcon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\ItemGetUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\ItemGetUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_Dungeon00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\TarotNPC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\TarotNPC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\CardExplainPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\CardExplainPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\PressEtoPickCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\PressEtoPickCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\TarotCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\TarotCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\TarotCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\TarotCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Collider_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Collider_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_GamePlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_GamePlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\GuideUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\GuideUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\LandObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\LandObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\DecoObejct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\DecoObejct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\DecoObejct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\DecoObejct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\VIBuffer_Terrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\VIBuffer_Terrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Road.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Road.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\InteractObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\InteractObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Chest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Chest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Frog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Frog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Client_Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Client_Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Turret.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Turret.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Turret.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Turret.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatDisappear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_DeathCatDisappear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatIdle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_DeathCatIdle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatHurt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_DeathCatHurt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\public\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\public\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Collider_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\Collider_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\ChainAttack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\ChainAttack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\State_DeathCatHurt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_DeathCatHurt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FlyBallAttack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\FlyBallAttack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Terrain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Terrain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FrogSummon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\FrogSummon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Bin\\Shaders\\Example.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Bin\\Shaders\\Example.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Engine_Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08DB34EB-019C-4F05-86D0-C2DA1848FC8C}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\Engine_Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FadeInOut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\FadeInOut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\private\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\private\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Bin\\Shaders\\Shader_UI.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Bin\\Shaders\\Shader_UI.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\FadeInOut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED58485B-0CC0-45A4-B511-AE00EFDC734A}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\FadeInOut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\EngineSDK\\Inc\\Layer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EngineSDK\\Inc\\Layer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\EngineSDK\\Inc\\Engine_Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EngineSDK\\Inc\\Engine_Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eye_Controller.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Eye_Controller.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Eye_Controller.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Eye_Controller.cpp",
+              "RelativeToolTip": "Client\\Private\\Eye_Controller.cpp",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwGsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T13:40:34.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MonsterHpUI.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\MonsterHpUI.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\MonsterHpUI.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\MonsterHpUI.cpp",
+              "RelativeToolTip": "Client\\Private\\MonsterHpUI.cpp",
+              "ViewState": "AQIAAFMAAAAAAAAAAABAwHkCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T18:44:20.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Boss_DeathCat.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_DeathCat.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Boss_DeathCat.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_DeathCat.cpp",
+              "RelativeToolTip": "Client\\Private\\Boss_DeathCat.cpp",
+              "ViewState": "AQIAANAAAAAAAAAAAAAQwOMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:04:49.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Boss_Aim.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Aim.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Boss_Aim.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Aim.cpp",
+              "RelativeToolTip": "Client\\Private\\Boss_Aim.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAK4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:05:32.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Boss_Eye.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Eye.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Boss_Eye.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Eye.cpp",
+              "RelativeToolTip": "Client\\Private\\Boss_Eye.cpp",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAMMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:05:03.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Boss_Hekat.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Hekat.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Boss_Hekat.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Hekat.cpp",
+              "RelativeToolTip": "Client\\Private\\Boss_Hekat.cpp",
+              "ViewState": "AQIAADkBAAAAAAAAAAAQwEwBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:05:25.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Boss_Eligor.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Eligor.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Boss_Eligor.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Eligor.cpp",
+              "RelativeToolTip": "Client\\Private\\Boss_Eligor.cpp",
+              "ViewState": "AQIAAD0BAAAAAAAAAAAQwFABAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:05:16.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boss_Gusion.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Gusion.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Boss_Gusion.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Boss_Gusion.cpp",
+              "RelativeToolTip": "Client\\Private\\Boss_Gusion.cpp",
+              "ViewState": "AQIAAEEBAAAAAAAAAAAQwFQBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:05:09.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Player.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Player.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Player.cpp",
+              "RelativeToolTip": "Client\\Private\\Player.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAQwJcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T15:34:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terrain.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Terrain.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Terrain.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Terrain.cpp",
+              "RelativeToolTip": "Client\\Private\\Terrain.cpp",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAIwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T14:33:33.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\GameObject.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\GameObject.cpp",
+              "RelativeToolTip": "Engine\\Private\\GameObject.cpp",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAIwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T15:33:10.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Human.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Human.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Human.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Human.cpp",
+              "RelativeToolTip": "Client\\Private\\Human.cpp",
+              "ViewState": "AQIAAKMAAAAAAAAAAAApwLIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T19:07:44.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mortal_Fly.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Mortal_Fly.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Mortal_Fly.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Mortal_Fly.cpp",
+              "RelativeToolTip": "Client\\Private\\Mortal_Fly.cpp",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAhwM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T19:49:05.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level_Loading.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Loading.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_Loading.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Loading.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_Loading.cpp",
+              "ViewState": "AQIAABMFAAAAAAAAAAAQwCgFAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T14:49:47.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "State_HekatTF.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTF.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_HekatTF.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTF.cpp",
+              "RelativeToolTip": "Client\\Private\\State_HekatTF.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvyUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T19:13:40.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "State_HekatTFollower.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\State_HekatTFollower.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_HekatTFollower.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\State_HekatTFollower.h",
+              "RelativeToolTip": "Client\\Public\\State_HekatTFollower.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T19:25:05.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "State_HekatTFollower.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTFollower.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_HekatTFollower.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTFollower.cpp",
+              "RelativeToolTip": "Client\\Private\\State_HekatTFollower.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T19:25:10.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameInstance.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\GameInstance.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\GameInstance.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\GameInstance.cpp",
+              "RelativeToolTip": "Engine\\Private\\GameInstance.cpp",
+              "ViewState": "AQIAAJsAAAAAAAAAAAApwKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T19:25:58.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VIBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\VIBuffer.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\VIBuffer.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\VIBuffer.cpp",
+              "RelativeToolTip": "Engine\\Private\\VIBuffer.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T19:26:43.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Engine_Function.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\EngineSDK\\Inc\\Engine_Function.h",
+              "RelativeDocumentMoniker": "EngineSDK\\Inc\\Engine_Function.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\EngineSDK\\Inc\\Engine_Function.h",
+              "RelativeToolTip": "EngineSDK\\Inc\\Engine_Function.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAhwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T19:49:31.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Event_Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Event_Manager.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Event_Manager.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Event_Manager.cpp",
+              "RelativeToolTip": "Engine\\Private\\Event_Manager.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAApwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T18:43:41.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Engine_Function.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Engine_Function.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\Engine_Function.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Engine_Function.h",
+              "RelativeToolTip": "Engine\\Public\\Engine_Function.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAApwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T18:43:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Base.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Base.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Base.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Base.cpp",
+              "RelativeToolTip": "Engine\\Private\\Base.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T18:43:38.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xmemory",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAAAAEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-28T18:43:31.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemGetUI.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\ItemGetUI.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\ItemGetUI.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\ItemGetUI.cpp",
+              "RelativeToolTip": "Client\\Private\\ItemGetUI.cpp",
+              "ViewState": "AQIAAH0BAAAAAAAAAADwv4sBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T18:29:03.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ItemIcon.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\ItemIcon.h",
+              "RelativeDocumentMoniker": "Client\\Public\\ItemIcon.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\ItemIcon.h",
+              "RelativeToolTip": "Client\\Public\\ItemIcon.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T18:28:57.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ItemGetUI.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\ItemGetUI.h",
+              "RelativeDocumentMoniker": "Client\\Public\\ItemGetUI.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\ItemGetUI.h",
+              "RelativeToolTip": "Client\\Public\\ItemGetUI.h",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T18:28:50.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Chest.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Chest.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Chest.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Chest.h",
+              "RelativeToolTip": "Client\\Public\\Chest.h",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T18:27:34.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Item.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Item.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Item.h",
+              "RelativeToolTip": "Client\\Public\\Item.h",
+              "ViewState": "AQIAADAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T18:27:24.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TarotNPC.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\TarotNPC.h",
+              "RelativeDocumentMoniker": "Client\\Public\\TarotNPC.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\TarotNPC.h",
+              "RelativeToolTip": "Client\\Public\\TarotNPC.h",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T17:52:52.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CardExplainPanel.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\CardExplainPanel.h",
+              "RelativeDocumentMoniker": "Client\\Public\\CardExplainPanel.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\CardExplainPanel.h",
+              "RelativeToolTip": "Client\\Public\\CardExplainPanel.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T17:52:36.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PressEtoPickCard.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\PressEtoPickCard.h",
+              "RelativeDocumentMoniker": "Client\\Public\\PressEtoPickCard.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\PressEtoPickCard.h",
+              "RelativeToolTip": "Client\\Public\\PressEtoPickCard.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T17:52:31.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TarotCard.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\TarotCard.h",
+              "RelativeDocumentMoniker": "Client\\Public\\TarotCard.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\TarotCard.h",
+              "RelativeToolTip": "Client\\Public\\TarotCard.h",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T17:52:07.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TarotCard.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\TarotCard.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\TarotCard.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\TarotCard.cpp",
+              "RelativeToolTip": "Client\\Private\\TarotCard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T17:52:06.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DungeonClearUI.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\DungeonClearUI.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\DungeonClearUI.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\DungeonClearUI.cpp",
+              "RelativeToolTip": "Client\\Private\\DungeonClearUI.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAABAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T17:41:48.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GuideUI.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\GuideUI.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\GuideUI.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\GuideUI.cpp",
+              "RelativeToolTip": "Client\\Private\\GuideUI.cpp",
+              "ViewState": "AQIAADQBAAAAAAAAAABAwEMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T17:21:33.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DecoObejct.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\DecoObejct.h",
+              "RelativeDocumentMoniker": "Client\\Public\\DecoObejct.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\DecoObejct.h",
+              "RelativeToolTip": "Client\\Public\\DecoObejct.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T17:04:31.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DecoObejct.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\DecoObejct.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\DecoObejct.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\DecoObejct.cpp",
+              "RelativeToolTip": "Client\\Private\\DecoObejct.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:59:29.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LandObject.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\LandObject.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\LandObject.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\LandObject.cpp",
+              "RelativeToolTip": "Client\\Private\\LandObject.cpp",
+              "ViewState": "AQIAAGgAAAAAAAAAAAApwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:38:12.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "State_HekatTH.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTH.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_HekatTH.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_HekatTH.cpp",
+              "RelativeToolTip": "Client\\Private\\State_HekatTH.cpp",
+              "ViewState": "AQIAAIQAAAAAAAAAAABQwIcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T16:18:11.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Chest.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Chest.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Chest.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Chest.cpp",
+              "RelativeToolTip": "Client\\Private\\Chest.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAABAwEYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T17:29:44.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Road.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Road.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Road.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Road.cpp",
+              "RelativeToolTip": "Client\\Private\\Road.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAADwv0AAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:53:56.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Level_Dungeon02.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon02.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_Dungeon02.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon02.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_Dungeon02.cpp",
+              "ViewState": "AQIAAEYBAAAAAAAAAABAwFUBAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:53:27.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Level_Dungeon01.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon01.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_Dungeon01.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon01.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_Dungeon01.cpp",
+              "ViewState": "AQIAAB4BAAAAAAAAAAApwCwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:47:23.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Level_Dungeon00.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon00.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_Dungeon00.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_Dungeon00.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_Dungeon00.cpp",
+              "ViewState": "AQIAANsAAAAAAAAAAABAwKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:45:35.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MonsterBone.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\MonsterBone.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\MonsterBone.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\MonsterBone.cpp",
+              "RelativeToolTip": "Client\\Private\\MonsterBone.cpp",
+              "ViewState": "AQIAABwBAAAAAAAAAAApwC0BAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:44:11.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Monster.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Monster.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Monster.cpp",
+              "RelativeToolTip": "Client\\Private\\Monster.cpp",
+              "ViewState": "AQIAAHYAAAAAAAAAAABAwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:43:31.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Turret.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Turret.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Turret.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Turret.h",
+              "RelativeToolTip": "Client\\Public\\Turret.h",
+              "ViewState": "AQIAACwAAAAAAAAAAAAWwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T16:39:09.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "State_DeathCatIdle.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatIdle.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_DeathCatIdle.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatIdle.cpp",
+              "RelativeToolTip": "Client\\Private\\State_DeathCatIdle.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAABAwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:11:15.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LandObject.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\LandObject.h",
+              "RelativeDocumentMoniker": "Client\\Public\\LandObject.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\LandObject.h",
+              "RelativeToolTip": "Client\\Public\\LandObject.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T16:03:50.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\GameObject.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\GameObject.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\GameObject.h",
+              "RelativeToolTip": "Engine\\Public\\GameObject.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T16:03:34.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Collider_Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Collider_Manager.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Collider_Manager.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Collider_Manager.cpp",
+              "RelativeToolTip": "Engine\\Private\\Collider_Manager.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:02:00.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Collider_Manager.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Collider_Manager.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\Collider_Manager.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Collider_Manager.h",
+              "RelativeToolTip": "Engine\\Public\\Collider_Manager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T16:01:58.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ChainAttack.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\ChainAttack.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\ChainAttack.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\ChainAttack.cpp",
+              "RelativeToolTip": "Client\\Private\\ChainAttack.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAABAwEwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T15:58:19.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "State_DeathCatHurt.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\State_DeathCatHurt.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_DeathCatHurt.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\State_DeathCatHurt.h",
+              "RelativeToolTip": "Client\\Public\\State_DeathCatHurt.h",
+              "ViewState": "AQIAAAcAAAAAAAAAAABAwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T15:49:57.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "State_DeathCatHurt.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatHurt.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_DeathCatHurt.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatHurt.cpp",
+              "RelativeToolTip": "Client\\Private\\State_DeathCatHurt.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAlwH4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T15:49:23.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FlyBallAttack.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FlyBallAttack.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\FlyBallAttack.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FlyBallAttack.cpp",
+              "RelativeToolTip": "Client\\Private\\FlyBallAttack.cpp",
+              "ViewState": "AQIAADoAAAAAAAAAAABAwEkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T15:48:49.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Client_Defines.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Client_Defines.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Client_Defines.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Client_Defines.h",
+              "RelativeToolTip": "Client\\Public\\Client_Defines.h",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowD8AAAC5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T15:32:58.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Item.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Item.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Item.cpp",
+              "RelativeToolTip": "Client\\Private\\Item.cpp",
+              "ViewState": "AQIAAJcAAAAAAAAAAABAwKUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T15:09:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "InteractObject.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\InteractObject.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\InteractObject.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\InteractObject.cpp",
+              "RelativeToolTip": "Client\\Private\\InteractObject.cpp",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAnwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T15:08:57.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Terrain.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Terrain.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Terrain.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\Terrain.h",
+              "RelativeToolTip": "Client\\Public\\Terrain.h",
+              "ViewState": "AQIAAC8AAAAAAAAAAADgv0AAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T14:51:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Layer.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\EngineSDK\\Inc\\Layer.h",
+              "RelativeDocumentMoniker": "EngineSDK\\Inc\\Layer.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\EngineSDK\\Inc\\Layer.h",
+              "RelativeToolTip": "EngineSDK\\Inc\\Layer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T14:52:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "list",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\list",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\list",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\list",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\list",
+              "ViewState": "AQIAAAkEAAAAAAAAAAApwBcEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-26T14:52:07.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Frog.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Frog.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Frog.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Frog.cpp",
+              "RelativeToolTip": "Client\\Private\\Frog.cpp",
+              "ViewState": "AQIAACcBAAAAAAAAAAAnwDcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T14:47:39.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Turret.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Turret.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Turret.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Turret.cpp",
+              "RelativeToolTip": "Client\\Private\\Turret.cpp",
+              "ViewState": "AQIAANkAAAAAAAAAAAAWwBoBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T14:47:20.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FrogSummon.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FrogSummon.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\FrogSummon.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FrogSummon.cpp",
+              "RelativeToolTip": "Client\\Private\\FrogSummon.cpp",
+              "ViewState": "AQIAAFUAAAAAAAAAAABAwAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T14:45:15.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Example.hlsl",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Bin\\Shaders\\Example.hlsl",
+              "RelativeDocumentMoniker": "Client\\Bin\\Shaders\\Example.hlsl",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Bin\\Shaders\\Example.hlsl",
+              "RelativeToolTip": "Client\\Bin\\Shaders\\Example.hlsl",
+              "ViewState": "AQIAADYAAAAAAAAAAABIwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-06-26T14:39:57.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VIBuffer_Terrain.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\VIBuffer_Terrain.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\VIBuffer_Terrain.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\VIBuffer_Terrain.cpp",
+              "RelativeToolTip": "Engine\\Private\\VIBuffer_Terrain.cpp",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAQwFkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T14:36:58.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Engine_Struct.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Engine_Struct.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\Engine_Struct.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Public\\Engine_Struct.h",
+              "RelativeToolTip": "Engine\\Public\\Engine_Struct.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T14:36:35.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FadeInOut.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FadeInOut.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\FadeInOut.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\FadeInOut.cpp",
+              "RelativeToolTip": "Client\\Private\\FadeInOut.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAABAwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T16:18:18.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Shader_UI.hlsl",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Bin\\Shaders\\Shader_UI.hlsl",
+              "RelativeDocumentMoniker": "Client\\Bin\\Shaders\\Shader_UI.hlsl",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Bin\\Shaders\\Shader_UI.hlsl",
+              "RelativeToolTip": "Client\\Bin\\Shaders\\Shader_UI.hlsl",
+              "ViewState": "AQIAAEIAAAAAAAAAAABIwFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-06-24T16:19:57.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FadeInOut.h",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\FadeInOut.h",
+              "RelativeDocumentMoniker": "Client\\Public\\FadeInOut.h",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Public\\FadeInOut.h",
+              "RelativeToolTip": "Client\\Public\\FadeInOut.h",
+              "ViewState": "AQIAACsAAAAAAAAAAABAwEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-24T16:19:13.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "State_DeathCatDisappear.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatDisappear.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_DeathCatDisappear.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\State_DeathCatDisappear.cpp",
+              "RelativeToolTip": "Client\\Private\\State_DeathCatDisappear.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAAD4v1EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T16:15:49.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Level_Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Level_Manager.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Level_Manager.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Engine\\Private\\Level_Manager.cpp",
+              "RelativeToolTip": "Engine\\Private\\Level_Manager.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAApwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T15:33:13.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Door.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Door.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Door.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Door.cpp",
+              "RelativeToolTip": "Client\\Private\\Door.cpp",
+              "ViewState": "AQIAAMEAAAAAAAAAAABAwNMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T15:31:20.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Level_GamePlay.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_GamePlay.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_GamePlay.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Level_GamePlay.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_GamePlay.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T15:30:41.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Camera.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Camera.cpp",
+              "ToolTip": "C:\\Users\\sean5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GithubProject\\DX9_CultOfTheLame\\Game\\Client\\Private\\Camera.cpp",
+              "RelativeToolTip": "Client\\Private\\Camera.cpp",
+              "ViewState": "AQIAAKAAAAAAAAAAAADgv7AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T14:40:05.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

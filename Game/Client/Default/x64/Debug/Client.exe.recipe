@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Client.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Example.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_BlendObject.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_Boss.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_Door.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_FlyBall.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\sean5\OneDrive\바탕 화면\GithubProject\DX9_CultOfTheLame\Game\Client\Bin\Shader_UI.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
